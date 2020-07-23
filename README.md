@@ -1,0 +1,2 @@
+# our_reviews
+PT/BR: Site criado em curso online com referência no do professor, com foco em JavaScript. Mostra avaliações de pessoas sobre um determinado produto, estudo sobre o "button" next, previous e random. EN: Site created in an online course with reference to the teacher's, with a focus on JavaScript. Shows people's ratings for a particular product, study on the next, previous and random "button".
